@@ -1,0 +1,63 @@
+(i__main__
+Document
+p0
+(dp1
+S'current'
+p2
+I0
+sS'posInHistory'
+p3
+I0
+sS'pageHistory'
+p4
+(lp5
+I0
+asS'pages'
+p6
+(lp7
+(lp8
+S'#Start#                                                                         '
+p9
+aS'<----------------------------------------------------------------------------->'
+p10
+aS'Welcome to the basic editor. Basic controlls are listed at the bottom of the   '
+p11
+aS'page. All pages should begin with a #Header#. Link to pages like so:           '
+p12
+aS'*Header*ChoiceDescription. You can have 3 links per page                       '
+p13
+aS'As you are editing, links will be highlighted automatically if the page exists '
+p14
+aS'Pressing 1, 2, or 3 will automatically jump to the linking page if it exists,  '
+p15
+aS'Otherwise, a new page will be created for you                                  '
+p16
+aS'Headers can have a $ in them, and if they do, everything after the $ is hidden '
+p17
+aS'from the player.                                                               '
+p18
+aS'In place of a link, you can put use &Header& to create a continued page        '
+p19
+aS'Much like links, pressing 4 will jump to or create the linked page             '
+p20
+aS'Navigate through recent pages with PGUP and PGDWN.                             '
+p21
+aS'                                                                                '
+p22
+aS' This would be a bad start to a story, so delete this page at any time with DEL'
+p23
+aS'                                                                                '
+p24
+aS'                                                                                '
+p25
+aS'                                                                                '
+p26
+aS'                                                                                '
+p27
+aS'                                                                                '
+p28
+aasS'filename'
+p29
+S'binary.bindoc'
+p30
+sb.

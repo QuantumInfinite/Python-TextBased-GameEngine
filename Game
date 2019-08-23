@@ -1,0 +1,232 @@
+(i__main__
+Document
+p0
+(dp1
+S'current'
+p2
+I2
+sS'lastAction'
+p3
+S''
+p4
+sS'posInHistory'
+p5
+I1
+sS'pageHistory'
+p6
+(lp7
+I0
+aI2
+asS'pages'
+p8
+(lp9
+(lp10
+S'#Start#                                                                         '
+p11
+aS'                                                                                '
+p12
+aS'this is the start room                                                          '
+p13
+aS'                                                                                '
+p14
+aS'*choiceOne*First Choice                                                         '
+p15
+aS'*choiceTwo*Second Choice                                                        '
+p16
+aS'*choiceThree*Third Choice                                                       '
+p17
+aS'                                                                                '
+p18
+aS'                                                                                '
+p19
+aS'                                                                                '
+p20
+aS'                                                                                '
+p21
+aS'                                                                                '
+p22
+aS'                                                                                '
+p23
+aS'                                                                                '
+p24
+aS'                                                                                '
+p25
+aS'                                                                                '
+p26
+aS'                                                                                '
+p27
+aS'                                                                                '
+p28
+aS'                                                                                '
+p29
+aS'                                                                                '
+p30
+aa(lp31
+S'#choiceOne#                                                                       '
+p32
+aS'                                                                                '
+p33
+aS'This is the first choice room                                                   '
+p34
+aS'                                                                                '
+p35
+aS'*Start*Back to start                                                            '
+p36
+aS'*choiceTwo*Actually go to choice Two                                            '
+p37
+aS'*secretPage*Actually actually, go to the secret page                            '
+p38
+aS'                                                                                '
+p39
+aS'                                                                                '
+p40
+aS'                                                                                '
+p41
+aS'                                                                                '
+p42
+aS'                                                                                '
+p43
+aS'                                                                                '
+p44
+aS'                                                                                '
+p45
+aS'                                                                                '
+p46
+aS'                                                                                '
+p47
+aS'                                                                                '
+p48
+aS'                                                                                '
+p49
+aS'                                                                                '
+p50
+aS'                                                                                '
+p51
+aa(lp52
+S'#choiceTwo#                                                                       '
+p53
+aS'                                                                                '
+p54
+aS"This node has multiple pages (press 'Four' to navigate to it here if youre in ed"
+p55
+aS'itor. if youre in jubjub.py, just press enter                                   '
+p56
+aS'&choiceTwo$PartTwo&                                                             '
+p57
+aS'                                                                                '
+p58
+aS'                                                                                '
+p59
+aS'                                                                                '
+p60
+aS'                                                                                '
+p61
+aS'                                                                                '
+p62
+aS'                                                                                '
+p63
+aS'                                                                                '
+p64
+aS'                                                                                '
+p65
+aS'                                                                                '
+p66
+aS'                                                                                '
+p67
+aS'                                                                                '
+p68
+aS'                                                                                '
+p69
+aS'                                                                                '
+p70
+aS'                                                                                '
+p71
+aS'                                                                                '
+p72
+aa(lp73
+S'#choiceTwo$PartTwo#                                                               '
+p74
+aS'                                                                                '
+p75
+aS'Lets had back                                                                   '
+p76
+aS'                                                                                '
+p77
+aS'*Start*Return to start                                                          '
+p78
+aS'                                                                                '
+p79
+aS'                                                                                '
+p80
+aS'                                                                                '
+p81
+aS'                                                                                '
+p82
+aS'                                                                                '
+p83
+aS'                                                                                '
+p84
+aS'                                                                                '
+p85
+aS'                                                                                '
+p86
+aS'                                                                                '
+p87
+aS'                                                                                '
+p88
+aS'                                                                                '
+p89
+aS'                                                                                '
+p90
+aS'                                                                                '
+p91
+aS'                                                                                '
+p92
+aS'                                                                                '
+p93
+aa(lp94
+S'#secretPage#                                                                      '
+p95
+aS'                                                                                '
+p96
+aS'       _.---._    /\\                                                           '
+p97
+aS'    ./\'       "--`\\//                                                           '
+p98
+aS'  ./              o \\          .----------------.                               '
+p99
+aS' /./\\  )______   \\__ \\        ( Curses is stupid )                              '
+p100
+aS"./  / /\\ \\   | \\ \\  \\ \\       /`----------------'                               "
+p101
+aS'   / /  \\ \\  | |\\ \\  \\ 7--- ooo ooo ooo ooo ooo ooo                             '
+p102
+aS'                                                                                '
+p103
+aS'                                                                                '
+p104
+aS'                                                                                '
+p105
+aS'                                                                                '
+p106
+aS'                                                                                '
+p107
+aS'                                                                                '
+p108
+aS'                                                                                '
+p109
+aS'*Start*back to start                                                            '
+p110
+aS'                                                                                '
+p111
+aS'                                                                                '
+p112
+aS'                                                                                '
+p113
+aS'                                                                                '
+p114
+aasS'filename'
+p115
+S'Game'
+p116
+sb.
